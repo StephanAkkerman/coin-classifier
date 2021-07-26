@@ -1,6 +1,6 @@
 # Coin_Classifier
 This program can classify different images of euro coins. These can be any of the 1, 2, 5, 10, 20, 50 cent or 1/2 Euro coins. 
-There are 4 different categories of coins, there are the `copper' coins (1, 2, and 5 cents), the `gold' coins (10, 20, and 50 cents), the 1 Euro coin, and the 2 Euro coin. 
+There are 4 different categories of coins, there are the 'copper' coins (1, 2, and 5 cents), the 'gold' coins (10, 20, and 50 cents), the 1 Euro coin, and the 2 Euro coin. 
 There is also a classification between the front and back of the coins. This means that thare are 8 different classes in total, 2 for each category. 
 
 # Pre-processing
@@ -24,5 +24,5 @@ A dotted box shows that a coin is upside-down.
 
 # Note
 In the folder 'images' there are some images which contain the settings necessary to get good classification on the image.
-The images have the name of the image followed by "_settings".
+The images have the name of the image followed by "\_settings".
 For the images in the distractor images folder we have named the images like x_y_z, with x being the minimum radius, y maximum and z the threshold.
