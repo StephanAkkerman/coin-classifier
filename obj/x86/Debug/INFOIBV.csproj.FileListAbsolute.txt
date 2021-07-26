@@ -1,0 +1,117 @@
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 1\INFOIBV\bin\Debug\INFOIBV.exe
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 1\INFOIBV\bin\Debug\INFOIBV.pdb
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 1\INFOIBV\obj\x86\Debug\INFOIBV.csprojAssemblyReference.cache
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 1\INFOIBV\obj\x86\Debug\INFOIBV.INFOIBV.resources
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 1\INFOIBV\obj\x86\Debug\INFOIBV.Properties.Resources.resources
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 1\INFOIBV\obj\x86\Debug\INFOIBV.csproj.GenerateResource.cache
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 1\INFOIBV\obj\x86\Debug\INFOIBV.csproj.CoreCompileInputs.cache
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 1\INFOIBV\obj\x86\Debug\INFOIBV.exe
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 1\INFOIBV\obj\x86\Debug\INFOIBV.pdb
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 2\INFOIBV\bin\Debug\INFOIBV.exe
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 2\INFOIBV\bin\Debug\INFOIBV.pdb
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 2\INFOIBV\obj\x86\Debug\INFOIBV.csprojAssemblyReference.cache
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 2\INFOIBV\obj\x86\Debug\INFOIBV.INFOIBV.resources
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 2\INFOIBV\obj\x86\Debug\INFOIBV.Properties.Resources.resources
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 2\INFOIBV\obj\x86\Debug\INFOIBV.csproj.GenerateResource.cache
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 2\INFOIBV\obj\x86\Debug\INFOIBV.csproj.CoreCompileInputs.cache
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 2\INFOIBV\obj\x86\Debug\INFOIBV.exe
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 2\INFOIBV\obj\x86\Debug\INFOIBV.pdb
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 2 Final\bin\Debug\INFOIBV.exe
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 2 Final\bin\Debug\INFOIBV.pdb
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 2 Final\obj\x86\Debug\INFOIBV.csprojAssemblyReference.cache
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 2 Final\obj\x86\Debug\INFOIBV.INFOIBV.resources
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 2 Final\obj\x86\Debug\INFOIBV.Properties.Resources.resources
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 2 Final\obj\x86\Debug\INFOIBV.csproj.GenerateResource.cache
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 2 Final\obj\x86\Debug\INFOIBV.csproj.CoreCompileInputs.cache
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 2 Final\obj\x86\Debug\INFOIBV.exe
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 2 Final\obj\x86\Debug\INFOIBV.pdb
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 3\bin\Debug\INFOIBV.exe
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 3\bin\Debug\INFOIBV.pdb
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 3\obj\x86\Debug\INFOIBV.csprojAssemblyReference.cache
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 3\obj\x86\Debug\INFOIBV.INFOIBV.resources
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 3\obj\x86\Debug\INFOIBV.Properties.Resources.resources
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 3\obj\x86\Debug\INFOIBV.csproj.GenerateResource.cache
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 3\obj\x86\Debug\INFOIBV.csproj.CoreCompileInputs.cache
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 3\obj\x86\Debug\INFOIBV.exe
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 3\obj\x86\Debug\INFOIBV.pdb
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 3\Assignment 3\bin\Debug\INFOIBV.exe
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 3\Assignment 3\bin\Debug\INFOIBV.pdb
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 3\Assignment 3\obj\x86\Debug\INFOIBV.csprojAssemblyReference.cache
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 3\Assignment 3\obj\x86\Debug\INFOIBV.INFOIBV.resources
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 3\Assignment 3\obj\x86\Debug\INFOIBV.Properties.Resources.resources
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 3\Assignment 3\obj\x86\Debug\INFOIBV.csproj.GenerateResource.cache
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 3\Assignment 3\obj\x86\Debug\INFOIBV.csproj.CoreCompileInputs.cache
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 3\Assignment 3\obj\x86\Debug\INFOIBV.exe
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 3\Assignment 3\obj\x86\Debug\INFOIBV.pdb
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 3 - kopie\Assignment 3\bin\Debug\INFOIBV.exe
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 3 - kopie\Assignment 3\bin\Debug\INFOIBV.pdb
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 3 - kopie\Assignment 3\obj\x86\Debug\INFOIBV.csprojAssemblyReference.cache
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 3 - kopie\Assignment 3\obj\x86\Debug\INFOIBV.INFOIBV.resources
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 3 - kopie\Assignment 3\obj\x86\Debug\INFOIBV.Properties.Resources.resources
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 3 - kopie\Assignment 3\obj\x86\Debug\INFOIBV.csproj.GenerateResource.cache
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 3 - kopie\Assignment 3\obj\x86\Debug\INFOIBV.csproj.CoreCompileInputs.cache
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 3 - kopie\Assignment 3\obj\x86\Debug\INFOIBV.exe
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment 3 - kopie\Assignment 3\obj\x86\Debug\INFOIBV.pdb
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\Assignment 3\bin\Debug\INFOIBV.exe
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\Assignment 3\bin\Debug\INFOIBV.pdb
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\Assignment 3\obj\x86\Debug\INFOIBV.csprojAssemblyReference.cache
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\Assignment 3\obj\x86\Debug\INFOIBV.INFOIBV.resources
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\Assignment 3\obj\x86\Debug\INFOIBV.Properties.Resources.resources
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\Assignment 3\obj\x86\Debug\INFOIBV.csproj.GenerateResource.cache
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\Assignment 3\obj\x86\Debug\INFOIBV.csproj.CoreCompileInputs.cache
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\Assignment 3\obj\x86\Debug\INFOIBV.exe
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\Assignment 3\obj\x86\Debug\INFOIBV.pdb
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetection\bin\Debug\INFOIBV.exe
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetection\bin\Debug\INFOIBV.pdb
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetection\obj\x86\Debug\INFOIBV.csprojAssemblyReference.cache
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetection\obj\x86\Debug\INFOIBV.INFOIBV.resources
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetection\obj\x86\Debug\INFOIBV.Properties.Resources.resources
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetection\obj\x86\Debug\INFOIBV.csproj.GenerateResource.cache
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetection\obj\x86\Debug\INFOIBV.csproj.CoreCompileInputs.cache
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetection\obj\x86\Debug\INFOIBV.exe
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetection\obj\x86\Debug\INFOIBV.pdb
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetection (1)\CircleDetection\bin\Debug\INFOIBV.exe
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetection (1)\CircleDetection\bin\Debug\INFOIBV.pdb
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetection (1)\CircleDetection\obj\x86\Debug\INFOIBV.csprojAssemblyReference.cache
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetection (1)\CircleDetection\obj\x86\Debug\INFOIBV.INFOIBV.resources
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetection (1)\CircleDetection\obj\x86\Debug\INFOIBV.Properties.Resources.resources
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetection (1)\CircleDetection\obj\x86\Debug\INFOIBV.csproj.GenerateResource.cache
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetection (1)\CircleDetection\obj\x86\Debug\INFOIBV.csproj.CoreCompileInputs.cache
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetection (1)\CircleDetection\obj\x86\Debug\INFOIBV.exe
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetection (1)\CircleDetection\obj\x86\Debug\INFOIBV.pdb
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetectionTim\bin\Debug\INFOIBV.exe
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetectionTim\bin\Debug\INFOIBV.pdb
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetectionTim\obj\x86\Debug\INFOIBV.csprojAssemblyReference.cache
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetectionTim\obj\x86\Debug\INFOIBV.INFOIBV.resources
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetectionTim\obj\x86\Debug\INFOIBV.Properties.Resources.resources
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetectionTim\obj\x86\Debug\INFOIBV.csproj.GenerateResource.cache
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetectionTim\obj\x86\Debug\INFOIBV.csproj.CoreCompileInputs.cache
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetectionTim\obj\x86\Debug\INFOIBV.exe
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetectionTim\obj\x86\Debug\INFOIBV.pdb
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetectionV3\bin\Debug\INFOIBV.exe
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetectionV3\bin\Debug\INFOIBV.pdb
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetectionV3\obj\x86\Debug\INFOIBV.csprojAssemblyReference.cache
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetectionV3\obj\x86\Debug\INFOIBV.INFOIBV.resources
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetectionV3\obj\x86\Debug\INFOIBV.Properties.Resources.resources
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetectionV3\obj\x86\Debug\INFOIBV.csproj.GenerateResource.cache
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetectionV3\obj\x86\Debug\INFOIBV.csproj.CoreCompileInputs.cache
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetectionV3\obj\x86\Debug\INFOIBV.exe
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetectionV3\obj\x86\Debug\INFOIBV.pdb
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetectionV4\bin\Debug\INFOIBV.exe
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetectionV4\bin\Debug\INFOIBV.pdb
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetectionV4\obj\x86\Debug\INFOIBV.csprojAssemblyReference.cache
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetectionV4\obj\x86\Debug\INFOIBV.INFOIBV.resources
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetectionV4\obj\x86\Debug\INFOIBV.Properties.Resources.resources
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetectionV4\obj\x86\Debug\INFOIBV.csproj.GenerateResource.cache
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetectionV4\obj\x86\Debug\INFOIBV.csproj.CoreCompileInputs.cache
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetectionV4\obj\x86\Debug\INFOIBV.exe
+C:\Users\Stephan\OneDrive\KI 3 Blok 1\Beeldverwerking\Assignment 4\CircleDetectionV4\obj\x86\Debug\INFOIBV.pdb
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetectionV4.2\bin\Debug\INFOIBV.exe
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetectionV4.2\bin\Debug\INFOIBV.pdb
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetectionV4.2\obj\x86\Debug\INFOIBV.csprojAssemblyReference.cache
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetectionV4.2\obj\x86\Debug\INFOIBV.INFOIBV.resources
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetectionV4.2\obj\x86\Debug\INFOIBV.Properties.Resources.resources
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetectionV4.2\obj\x86\Debug\INFOIBV.csproj.GenerateResource.cache
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetectionV4.2\obj\x86\Debug\INFOIBV.csproj.CoreCompileInputs.cache
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetectionV4.2\obj\x86\Debug\INFOIBV.exe
+C:\Users\Tim\OneDrive - Universiteit Utrecht\Universiteit\Image Processing\Assignments\Assignment4\CircleDetectionV4.2\obj\x86\Debug\INFOIBV.pdb
